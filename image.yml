@@ -8,8 +8,8 @@ summary: |-
 upstream:
   url: https://xemu.app/
   version:
-    type: command
-    run: echo v0.8.134
+    type: static
+    version: v0.8.134
 
 release:
   branch: master
