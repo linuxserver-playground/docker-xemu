@@ -10,6 +10,12 @@ upstream:
   version:
     type: static
     version: v0.8.134
+  notes:
+    type: github_release
+    repo: xemu-project/xemu
+  sponsor:
+  - name: xemu (Patreon)
+    url: https://www.patreon.com/mborgerson
 
 release:
   branch: master
